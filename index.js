@@ -2,6 +2,8 @@
  * IN CLASS EXERCISE: LOOPS
  */
 
+var myArray = [1,2,3,4,5]
+
 /** 
  * Given an input Array, loop forward over the Array and print its values 
  * using console.log().
