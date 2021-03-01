@@ -67,20 +67,6 @@ function printObjectKeys(object) {
 
 
 
-/** 
- * Given an input Object, return an Array containing the Object's values.
- */
-function getObjectValues(object) {
-  // YOUR CODE BELOW HERE //
-  
-  
-  // YOUR CODE ABOVE HERE //
-}
-
-
-
-
-
 
 
 /** 
